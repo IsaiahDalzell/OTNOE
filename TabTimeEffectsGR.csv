@@ -1,0 +1,14 @@
+Row,Label,Column1,Column2,Column3,Column4
+0,Variables,NAICS,SE,SW,PE
+1,ind1,Real estate,-50,-18,-4
+2,ind2,Construction,-33,-16,-4
+3,ind3,Accomodation,-22,-12,-2
+4,ind4,Manufacturing,-21,-14,-3
+5,ind5,Retail trade,-14,-10,-3
+6,ind6,Professional services,-7,-6,-1
+7,ind7,Manufacturing,-24,-9,-3
+8,ind8,Construction,-15,-9,-5
+9,ind9,Agriculture,-7,0,-1
+10,ind10,Retail trade,-6,-4,0
+11,ind11,Transportation,-4,-4,-2
+12,ind12,Other services,-2,-2,0

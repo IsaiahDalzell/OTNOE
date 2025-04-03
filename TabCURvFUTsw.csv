@@ -1,0 +1,17 @@
+Row,Label,Column1,Column2,Column3,Column4
+0,Variables,Age30,Age40,Age50,Age60
+1,PastInterestInc_p25,-0.1,-0.4,-1.1,-1.8
+2,PastInterestInc_p50,0,-0.1,-0.2,-0.4
+3,PastInterestInc_p75,0,0,0,0
+4,PastDividendsInc_p25,-0.1,-0.3,-0.9,-1.6
+5,PastDividendsInc_p50,0,0,-0.2,-0.3
+6,PastDividendsInc_p75,0,0,0,0
+7,PastCapGainsInc_p25,-0.2,-0.9,-3.6,-6.3
+8,PastCapGainsInc_p50,0,-0.1,-0.5,-1.1
+9,PastCapGainsInc_p75,0,0,0,0.2
+10,PastSpouseInc_p25,-4.7,-14.6,-19.5,-20.3
+11,PastSpouseInc_p50,-0.9,-2.4,-2.6,-1.8
+12,PastSpouseInc_p75,0,0,0,0
+13,PastWageInc_p25,-0.3,0.3,0.3,1.5
+14,PastWageInc_p50,0,1,1.1,2.4
+15,PastWageInc_p75,0.3,2.5,3.4,5.1

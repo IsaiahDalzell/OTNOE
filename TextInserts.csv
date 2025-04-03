@@ -1,0 +1,156 @@
+labels,value
+Databank_Info_Num_25_65_Obs,3.2 billion
+Sample_Info_Num_Bal_Obs,2.0 billion
+Sample_Info_Num_Bal_Occ_Obs,1.3 billion
+Sample_Info_Num_SE_Unbal_Obs,169 million
+Sample_Info_Num_SE_Bal_Obs_CPS,98 million
+Sample_Info_Num_SE_Bal_Obs,108 million
+Sample_Info_Num_SE_Bal_Obs_All,29 million
+Sample_Info_Num_SE_Bal_Obs_NoE,65 million
+Sample_Info_Num_K1_Tot,138 million
+Sample_Info_Num_K1_Out,43 million
+Sample_Info_Num_Efiled,89 million
+Sample_Info_Num_Occ_Std,73 million
+Sample_Info_Num_Occ_Non_Std,7 million
+PYobs_Tot_Num_Obs,1.3 billion
+PYobs_Tot_Num_Ind,80 million
+PYobs_Tot_Toty_Avg,\$49 thousand
+PYobs_Tot_10_pctl,zero
+PYobs_Tot_90_pctl,\$95 thousand
+PYobs_Tot_SEy_Avg,\$6 thousand
+PYobs_Tot_PEy_Avg,\$43 thousand
+PYobs_Tot_SEy_Shr,$13$ percent
+PYobs_SE_Toty_Avg,\$89 thousand
+PYobs_PE_Toty_Avg,\$56 thousand
+PYobs_SE_Count_Shr,$8$ percent
+PYobs_PE_Count_Shr,$74$ percent
+PYobs_NE_Count_Shr,$18$ percent
+PYobs_SE_Toty_Shr,$15$ percent
+PYobs_SE_Toty_Ave,\$89 thousand
+PYobs_PE_Toty_Ave,\$56 thousand
+Sample_Info_Num_Bal_Ind,80 million
+PYobs_Tot_Edu_Pct,$53$ percent
+PYobs_Tot_Cog_Pct,$52$ percent
+PYobs_Tot_Int_Pct,$59$ percent
+PYobs_Tot_Man_Pct,$38$ percent
+PYobs_SE_Avg_GP,\$249 thousand
+PYobs_SE_Shr_Emp,$33$ percent
+IRSvCPS_Num_SE_CPS_Inc,85 million
+IRSvCPS_Num_SE_CPS_Cls,138 million
+IRSvCPS_CPS1_Inc_5_Th,\$6 thousand
+IRSvCPS_CPS1_Inc_5_Inc_Shr,$0$ percent
+IRSvCPS_CPS1_Inc_5_Num_Shr,$5$ percent
+IRSvCPS_CPS2_Inc_5_Num_Shr,$3$ percent
+IRSvCPS_CPS2_Inc_5_Inc_Shr,$0$ percent
+IRSvCPS_IRS_Inc_5_Inc_Shr,$-9$ percent
+IRSvCPS_IRS_Inc_5_Num_Shr,$12$ percent
+IRSvCPS_CPS1_Inc_90_Th,\$100 thousand
+IRSvCPS_CPS1_Inc_90_Inc_Shr,$42$ percent
+IRSvCPS_CPS2_Inc_90_Num_Shr,$16$ percent
+IRSvCPS_CPS2_Inc_90_Inc_Shr,$53$ percent
+IRSvCPS_IRS_Inc_90_Inc_Shr,$80$ percent
+IRSvCPS_CPS1_Frac_Losses,$2$ percent
+IRSvCPS_CPS2_Frac_Losses,$3$ percent
+IRSvCPS_CPS_Mean_Loss_Cond,\$10 thousand
+IRSvCPS_IRS1_Frac_Losses,$10$ percent
+IRSvCPS_IRS_Mean_Loss_Cond,\$66 thousand
+IRSvCPS_IRS_SE_25,\$23 thousand
+IRSvCPS_IRS_SE_55,\$93 thousand
+IRSvCPS_CPS1_SE_25,\$41 thousand
+IRSvCPS_CPS1_SE_55,\$53 thousand
+IRSvCPS_CPS2_SE_25,\$41 thousand
+IRSvCPS_CPS2_SE_55,\$73 thousand
+IRSvCPS_Wgt_Diff_Shr,$33$ percent
+IRSvCPS_Wgt_Diff_Shr_Top,$65$ percent
+IRSvCPS_RT_Yshr,$69$ percent
+IRSvCPS_RT_Ycps,\$218 thousand
+IRSvCPS_RT_Yirs,\$355 thousand
+DelY_KS_PE,0.2
+DelY_P90_P10_Range,$170$ percent
+DelY_P90_P10_Factor_PE,2.5
+DelY_P90_P10_Factor_PE_Low,2
+DelY_P90_P10_Factor_PE_High,3.5
+DelY_KS_SE,0.3
+DelY_KS_Diff,0.1
+Entry_Rate_SE_Emp_2001,$0.73$ percent
+Entry_Rate_SE_Emp_2015,$0.47$ percent
+Age_Eff_Tried_v_PPE,$63$ percent
+Time_Eff_SE_2008,$-10$ percent
+Time_Eff_SE_2009,$-9$ percent
+Time_Eff_PSE_Edu_RE,$-50$ percent
+Time_Eff_PSE_Edu_Con,$-33$ percent
+Int_Inc_TSE_Age_55,\$134 thousand
+Int_Inc_PPE_Age_55,\$79 thousand
+Int_Inc_Profile_PSE_Men_55,\$187 thousand
+Int_Inc_Profile_PPE_Men_55,\$92 thousand
+Int_Inc_Profile_MSW_Men_55,\$123 thousand
+Int_Inc_Profile_NPE_Men_55,\$19 thousand
+Sample_Info_Shr_SP_F1099,$6$ percent
+Inv_Shr_PrimE_Pop,$67$ percent
+Inv_Shr_PSE,$3.4$ percent
+Inv_Num_PSE,3 million
+Inv_Shr_PrimE_TE_Inc,$89$ percent
+Inv_Shr_TSE_SE_Inc_PrimE,$94$ percent
+Inv_Shr_PPE_SE_Inc_TE,$1$ percent
+Inv_Shr_PSE_SEInc,$62$ percent
+Inv_Shr_SEH,$57$ percent
+Inv_Shr_SEH_Inc,$16$ percent
+Inv_Shr_SEH_PPE,$37$ percent
+Inv_Pct_SEH_Has_SchC,$86$ percent
+Inv_Pct_SENH_Has_SchC,$67$ percent
+Inv_Tot_SEH_AdjSchC,1 million
+Inv_Shr_SEH_AdjSchC,$37$ percent
+Inv_Inc_SEH_AdjSchC,\$47 thousand
+Inv_Inc_Shr_SEH_AdjSchC,$10$ percent
+Inv_Shr_PYobs_SEit_To_PPE,$25.3$ percent
+Reg_P25_P75_Diff,21 percentage point
+Reg_Coef_Beta_All,0.0012
+Reg_Implied_Diff,0.025 percentage point
+Entry_Rate_SE_Avg,$2$ percent
+Founders_Yr1_Loss,$47$ percent
+Founders_Yr2_Loss,$37$ percent
+Founders_Yr3_Loss,$34$ percent
+Founders_Yr1_Prof,$53$ percent
+Founders_Yr2_Prof,$18$ percent
+Founders_Yr3_Prof,$8$ percent
+Founders_Yr1_TotInc,$88$ percent
+Founders_Yr2_TotInc,$5$ percent
+Founders_Yr3_TotInc,$2$ percent
+Founders_Yr1_AGI,$95$ percent
+Startups_Yr1_PosS_NoInt,$60$ percent
+Startups_Yr1_IntSale_P75,0.005
+Startups_Yr1_DebtSale_P75,10 percent
+Model_Input_PE_P10,$-24.4$ percent
+Model_Input_PE_P50,$2.8$ percent
+Model_Input_PE_P90,$43.5$ percent
+Model_Input_PE_Auto,$-$0.13
+Model_Input_SE_P10,$-53.4$ percent
+Model_Input_SE_P50,$3.1$ percent
+Model_Input_SE_P90,$114.8$ percent
+Model_Input_SE_Auto,$-$0.18
+DelY_P90_P10_Factor_PE_Men,2.6
+DelY_P90_P10_Factor_PE_Women,2.3
+DelY_P90_P10_Factor_PE_Cons,2.2
+DelY_P90_P10_Factor_PE_Prof,2.3
+Inv_Num_Groups,"32,256"
+Classifier_Parameter_k,11
+Classifier_Parameter_var,$75$ percent
+"",\textbf{NA}
+"",\textbf{NA}
+"",\textbf{NA}
+"",\textbf{NA}
+"",\textbf{NA}
+"",\textbf{NA}
+"",\textbf{NA}
+"",\textbf{NA}
+"",\textbf{NA}
+"",\textbf{NA}
+"",\textbf{NA}
+"",\textbf{NA}
+"",\textbf{NA}
+"",\textbf{NA}
+"",\textbf{NA}
+"",\textbf{NA}
+"",\textbf{NA}
+"",\textbf{NA}
+"",\textbf{NA}

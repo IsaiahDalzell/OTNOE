@@ -1,0 +1,10 @@
+Row,Label,Column1,Column2,Column3,Column4
+0,Variables,FirstPosYr1,FirstPosYr2,FirstPosYr3,Sum
+1,BusInc,53.5,17.7,7.8,78.9
+2,OwnTotInc,88,5.3,1.9,95.3
+3,OwnAGI,95.2,2,0.7,97.8
+4,OwnW2,57.1,4.5,3,64.5
+5,OwnSPw,55.2,4.9,2.8,62.9
+6,OwnCG,25.7,9.1,6.5,41.3
+7,OwnInt,74.7,5.9,2.9,83.5
+8,OwnOAss,52.9,8.6,5.3,66.9
